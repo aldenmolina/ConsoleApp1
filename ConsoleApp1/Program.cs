@@ -7,7 +7,10 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            //This is just a comment and it won't affect the way the code runs
+            //this is just a comment and it won't affect the way the code runs     
+            Console.WriteLine("Goodbye!");
+
         }
+
     }
 }
