@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             //this is just a comment and it won't affect the way the code runs     
-            Console.WriteLine("Goodbye!");
+            Console.WriteLine("Adios!");
 
         }
 
